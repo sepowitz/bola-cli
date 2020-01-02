@@ -1,0 +1,20 @@
+{
+  "name": "bola-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool for footy stats",
+  "main": "index.js",
+  "author": "sepowitz",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^5.0.0",
+    "enquirer": "^2.3.2",
+    "figlet": "^1.2.4",
+    "minimist": "^1.2.0",
+    "prompt": "^1.0.0",
+    "table": "^5.4.6"
+  }
+}
