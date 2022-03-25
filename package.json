@@ -13,7 +13,7 @@
     "configstore": "^5.0.0",
     "enquirer": "^2.3.2",
     "figlet": "^1.2.4",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "prompt": "^1.0.0",
     "table": "^5.4.6"
   }
